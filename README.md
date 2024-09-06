@@ -2,7 +2,7 @@
 #### Full-stack developer
 ![Full-stack developer](s/banner.png)
 
-I'm Safikul Islam. I have been completed my Enterprise Systems Analysis and Design - C# .NET (ESAD - CS) programme, Provider: IsDB-BISEW IT Scholarship Project. I am improving my learning development skills. Every day I want to learn something new.
+I'm Safikul Islam. I completed my Enterprise Systems Analysis and Design - C# .NET (ESAD - CS) program, Provider: IsDB-BISEW IT Scholarship Project. I am improving my learning development skills. Every day I want to learn something new.
 
 Skills: C#/ASP.NET MVC/ ASP.NET Core/Entity Framework Core/Web API/ ADO.NET/Angular/React
 
