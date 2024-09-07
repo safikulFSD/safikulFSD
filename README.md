@@ -1,4 +1,4 @@
-https://x.com/SafikulIslam26/header_photo
+
 ### Hi there 👋,  I'm Safikul Islam
 #### Full-stack developer
 
