@@ -1,6 +1,7 @@
+https://x.com/SafikulIslam26/header_photo
 ### Hi there 👋,  I'm Safikul Islam
 #### Full-stack developer
-![Full-stack developer](https://x.com/SafikulIslam26/header_photo)
+
 
 I'm Safikul Islam. I completed my Enterprise Systems Analysis and Design - C# .NET (ESAD - CS) program, Provider: IsDB-BISEW IT Scholarship Project. I am improving my learning development skills. Every day I want to learn something new.
 
